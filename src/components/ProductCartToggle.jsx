@@ -17,6 +17,7 @@ const ProductCartToggle = ({ view, setView, cartCount }) => {
         Products
       </button>
 
+
       {/* Cart Button */}
       <button
         onClick={() => setView("cart")}

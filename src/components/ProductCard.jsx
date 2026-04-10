@@ -19,6 +19,7 @@ const ProductCard = ({ product, handleAddToCart }) => {
           {product.tagType}
         </span>
       )}
+      
 
       {/* Icon */}
       <div className="flex justify-start mb-2">

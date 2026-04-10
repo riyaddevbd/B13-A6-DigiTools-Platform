@@ -12,6 +12,7 @@ const Products = ({ cart, setCart }) => {
       toast.warning("Already added!");
       return;
     }
+    
 
     setCart([...cart, product]);
     toast.success("Added to cart!");

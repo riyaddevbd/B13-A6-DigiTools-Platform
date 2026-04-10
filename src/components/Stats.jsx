@@ -7,6 +7,7 @@ const Stats = () => {
       
       <div className="max-w-5xl mx-auto">
         
+        
         {/* Main Box */}
         <div className="flex flex-col md:flex-row items-center justify-between text-center border border-white/20 rounded-lg px-6 md:px-12 py-8">
           

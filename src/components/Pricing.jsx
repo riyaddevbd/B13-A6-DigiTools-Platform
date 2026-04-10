@@ -1,5 +1,5 @@
 const pricingData = [
-  
+
   {
     name: "Starter",
     desc: "Perfect for getting started",
@@ -14,6 +14,7 @@ const pricingData = [
     button: "Get Started Free",
     highlight: false,
   },
+  
   {
     name: "Pro",
     desc: "Best for professionals",

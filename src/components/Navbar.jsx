@@ -7,10 +7,11 @@ const Navbar = ({ cartCount }) => {
     <div className="w-full bg-white shadow-md">
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         
-        {/* Logo */}
+        {/*DigiTools Logo */}
         <div className="text-2xl font-bold text-purple-600">
           DigiTools
         </div>
+
 
         {/* Menu */}
         <ul className="hidden md:flex items-center gap-6 text-gray-700 font-medium">

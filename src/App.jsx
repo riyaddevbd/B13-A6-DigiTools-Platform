@@ -10,6 +10,7 @@ import Pricing from "./components/Pricing";
 import Workflow from "./components/Workflow";
 import Footer from "./components/Footer";
 
+
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
