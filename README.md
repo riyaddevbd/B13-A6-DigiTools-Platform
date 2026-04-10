@@ -26,8 +26,7 @@ Key Features
 
 
 Live Preview
-> 
-
+>  https://b13-a6-digitools-platform01.netlify.app/
 
 ---
 
