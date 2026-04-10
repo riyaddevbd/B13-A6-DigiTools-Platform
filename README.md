@@ -19,8 +19,11 @@ Technologies Used
 Key Features
 
 *** Add to Cart Functionality Users can add products to the cart with instant toast notifications. Duplicate items are prevented with warning alerts.
+
 *** Remove & Checkout System
+
 *** Product & Cart Toggle A toggle system allows users to switch between product view and cart view dynamically, with real-time cart count updates.
+
 
 Live Preview
 > 
