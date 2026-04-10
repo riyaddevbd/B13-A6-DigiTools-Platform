@@ -8,6 +8,8 @@ const Footer = () => {
       {/* Top Section */}
       <div className="grid md:grid-cols-6 gap-10 border-b border-gray-700 pb-10">
         
+
+        
         {/* Logo + Description */}
         <div className="md:col-span-2">
           <h2 className="text-white text-2xl font-bold mb-3">
